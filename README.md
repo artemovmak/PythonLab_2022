@@ -1,1 +1,0 @@
-# PythonLab_2022
